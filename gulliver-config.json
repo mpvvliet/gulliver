@@ -1,0 +1,31 @@
+{
+	"applications": [
+		{ 
+			"name": "crimson-fog",
+			"last-version": "1.2.3",
+			"num-deployables": "10",
+			"new-version-wait-min": 60,
+			"new-version-wait-max": 300,
+			"auto-deploy-wait-min": 30,
+			"auto-deploy-wait-max": 60
+		},
+		{ 
+			"name": "silent-frost",
+			"last-version": "1.1.0",
+			"num-deployables": "2",
+			"new-version-wait-min": 30,
+			"new-version-wait-max": 60,
+			"auto-deploy-wait-min": 30,
+			"auto-deploy-wait-max": 60
+		},
+		{ 
+			"name": "twilight-firefly",
+			"last-version": "2.1.0",
+			"num-deployables": "5",
+			"new-version-wait-min": 15,
+			"new-version-wait-max": 90,
+			"auto-deploy-wait-min": 15,
+			"auto-deploy-wait-max": 90
+		}
+	]
+}
